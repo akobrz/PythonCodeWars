@@ -1,3 +1,5 @@
+# krótkie rozwiązanie
+
 def reverse_words2(text):
     ret = []
     for w in text.split(' '):
